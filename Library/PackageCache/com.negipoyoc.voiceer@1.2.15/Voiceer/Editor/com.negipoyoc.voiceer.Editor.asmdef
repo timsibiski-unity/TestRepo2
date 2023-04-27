@@ -1,0 +1,18 @@
+{
+    "name": "com.negipoyoc.voiceer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b75a4b784fca48b4dbb7b0178a9db560"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

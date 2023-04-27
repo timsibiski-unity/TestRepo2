@@ -1,0 +1,24 @@
+{
+  "displayName": "Custom NUnit",
+  "name": "com.unity.ext.nunit",
+  "version": "2.0.2",
+  "unity": "2019.4",
+  "description": "A custom version of NUnit used by Unity Test Framework. Based on NUnit version 3.5 and works with all platforms, il2cpp and Mono AOT.",
+  "keywords": [
+    "nunit",
+    "unittest",
+    "test"
+  ],
+  "category": "Libraries",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.ext.nunit.git",
+    "type": "git",
+    "revision": "4875388b82cdfce1ea75a17f35d84e85588b8084"
+  },
+  "relatedPackages": {
+    "com.unity.ext.nunit.tests": "2.0.2"
+  },
+  "upmCi": {
+    "footprint": "30d457a8acdca691d3cefc2604e75132ef577443"
+  }
+}

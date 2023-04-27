@@ -1,0 +1,19 @@
+{
+  "name": "com.negipoyoc.voiceer",
+  "displayName": "Voiceer",
+  "description": "A package to connect audio clips to Unity editor events.",
+  "keywords": [
+    "Audio",
+    "Editor",
+    "Utility",
+    "Anime",
+    "Japanese"
+  ],
+  "category": "Utility",
+  "version": "1.2.15",
+  "unity": "2021.3",
+  "dependencies": {},
+  "publishConfig": {
+    "registry": "https://package.openupm.com"
+  }
+}
