@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.coffee.ui-effect-snapshot": "1.0.1",
     "com.littlebigfun.addressable-importer": "0.16.1",
     "com.negipoyoc.voiceer": "1.2.15",
     "com.openai.unity": "4.7.3",

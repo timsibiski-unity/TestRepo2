@@ -1,1 +1,0 @@
-Temp/ScriptUpdater/1128365311/341328671_UIEffectSnapshotUpdater.cs => Library/PackageCache/com.coffee.ui-effect-snapshot@1.0.1/Scripts/UIEffectSnapshotUpdater.cs

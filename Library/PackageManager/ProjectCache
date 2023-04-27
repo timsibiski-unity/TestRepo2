@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182137540000000
-    m_Hash: 978722452
+      ticks: 638182177490000000
+    m_Hash: 3730583887
   m_LockFileStatus:
     m_FilePath: /Users/timsibiski/Desktop/TicketInvestigations/TestRepo2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182137540000000
-    m_Hash: 316123744
+      ticks: 638182177490000000
+    m_Hash: 3700450179
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,83 +22,6 @@ m_LocalPackages:
 m_ProjectPath: /Users/timsibiski/Desktop/TicketInvestigations/TestRepo2/Packages
 m_EditorVersion: 2021.3.20f1 (577897200b8b)
 m_ResolvedPackages:
-- packageId: com.coffee.ui-effect-snapshot@1.0.1
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.1
-  source: 1
-  resolvedPath: /Users/timsibiski/Desktop/TicketInvestigations/TestRepo2/Library/PackageCache/com.coffee.ui-effect-snapshot@1.0.1
-  assetPath: Packages/com.coffee.ui-effect-snapshot
-  name: com.coffee.ui-effect-snapshot
-  displayName: UI Effect Snapshot
-  author:
-    name: mob-sakai
-    email: sakai861104@gmail.com
-    url: https://github.com/mob-sakai
-  category: 
-  type: 
-  description: Let's take a snapshot of a specific frame with effect, and display
-    it. The effect is non-realtime, light-weight, less-camera, but be effective enough.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
-    - 1.0.0
-    - 1.0.1
-    compatible:
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
-    - 1.0.0
-    - 1.0.1
-    verified: 
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - ui
-  - effect
-  - snapshot
-  registry:
-    id: scoped:project:package.openupm.com
-    name: package.openupm.com
-    url: https://package.openupm.com
-    scopes:
-    - com.coffee.ui-effect-snapshot
-    - com.littlebigfun.addressable-importer
-    - com.negipoyoc.voiceer
-    - com.openai.unity
-    - com.openupm
-    - com.utilities.async
-    - com.utilities.audio
-    - com.utilities.encoder.wav
-    - com.utilities.rest
-    isDefault: 0
-    capabilities: 0
-    configSource: 4
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637577817646800000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/mob-sakai/UIEffectSnapshot.git
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 
 - packageId: com.littlebigfun.addressable-importer@0.16.1
   testable: 0
   isDirectDependency: 1
@@ -421,6 +344,7 @@ m_ResolvedPackages:
     - 4.7.1
     - 4.7.2
     - 4.7.3
+    - 4.7.4
     compatible:
     - 1.0.0-preview.1
     - 1.0.0
@@ -466,6 +390,7 @@ m_ResolvedPackages:
     - 4.7.1
     - 4.7.2
     - 4.7.3
+    - 4.7.4
     verified: 
   dependencies:
   - name: com.unity.nuget.newtonsoft-json
